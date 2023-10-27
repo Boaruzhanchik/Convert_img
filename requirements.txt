@@ -1,0 +1,8 @@
+selenium
+Pillow
+openpyxl
+python-dotenv
+openpyxl
+tk
+Pillow
+lxml
